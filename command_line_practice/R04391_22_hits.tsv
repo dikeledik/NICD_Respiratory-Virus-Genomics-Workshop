@@ -1,0 +1,7 @@
+tax_id	accession	size	species	genus	family	brief	description	num_reads	cov_bases	coverage	mean_depth	mean_baseq	mean_mapq
+11250	MN108243.1	15287	Orthopneumovirus hominis (3049954)	Orthopneumovirus (1868215)	Pneumoviridae (11244)	Human orthopneumovirus	UNVERIFIED: Human orthopneumovirus strain 318590_R1.fastq.gz/USA, complete genome	98	3913	25.5969	0.85576	33.5	3.59
+208895	MT107528.1	15311	Orthopneumovirus hominis (3049954)	Orthopneumovirus (1868215)	Pneumoviridae (11244)	Human respiratory syncytial virus B	Human respiratory syncytial virus B isolate HRSV/B/Bern/2019, complete genome	102	3533	23.0749	0.892757	33.5	3.23
+12814	JN032118.1	15151	Orthopneumovirus bovis (3050248)	Orthopneumovirus (1868215)	Pneumoviridae (11244)	Respiratory syncytial virus	Respiratory syncytial virus strain B/WI/629-DC8/08-09, partial genome	33	1582	10.4416	0.272787	33.6	1.21
+12509	NC_009334.1	172764	Lymphocryptovirus humangamma4 (3050299)	Lymphocryptovirus (10375)	Orthoherpesviridae (3044472)	Human herpesvirus 4 type 2	Human herpesvirus 4, complete genome	6	488	0.282466	0.00313723	33.6	0.5
+10376	LN827800.1	172142	Lymphocryptovirus humangamma4 (3050299)	Lymphocryptovirus (10375)	Orthoherpesviridae (3044472)	Human gammaherpesvirus 4	Human herpesvirus 4 genome assembly Jijoye, segment : I	5	540	0.313695	0.00313695	33.5	0.8
+10376	AP019154.1	163141	Lymphocryptovirus humangamma4 (3050299)	Lymphocryptovirus (10375)	Orthoherpesviridae (3044472)	Human gammaherpesvirus 4	Human gammaherpesvirus 4 UPN431_CD56+ DNA, nearly complete genome	230	623	0.381878	0.0616522	33.7	7.31

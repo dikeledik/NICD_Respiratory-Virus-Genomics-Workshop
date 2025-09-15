@@ -1,0 +1,26 @@
+R04646_												
+tax_id	accession	size	species	genus	family	brief	num_reads	cov_bases	coverage	mean_depth	mean_baseq	mean_mapq
+208895	MZ515812.1	15276	Orthopneumovirus hominis (3049954)	Orthopneumovirus (1868215)	Pneumoviridae (11244)	Human respiratory syncytial virus B	1491627	15225	99.6661	13971.5	33.4	7.18
+11250	KX765935.1	15232	Orthopneumovirus hominis (3049954)	Orthopneumovirus (1868215)	Pneumoviridae (11244)	Human orthopneumovirus	748844	15053	98.8248	6979.91	33.3	3.68
+12814	JN032117.1	15214	Orthopneumovirus bovis (3050248)	Orthopneumovirus (1868215)	Pneumoviridae (11244)	Respiratory syncytial virus	357815	13744	90.3378	3301.96	33.4	1.28
+10372	NC_001716.2	153080	Roseolovirus humanbeta7 (3050298)	Roseolovirus (40272)	Orthoherpesviridae (3044472)	Human betaherpesvirus 7	576	8389	5.48014	0.507826	33.4	17.6
+208893	OQ941773.1	14740	Orthopneumovirus hominis (3049954)	Orthopneumovirus (1868215)	Pneumoviridae (11244)	Human respiratory syncytial virus A	155508	3637	24.6744	1523.29	33.4	1.16
+147685	OM001362.1	7094	Rhinovirus A (147711)	Enterovirus (12059)	Picornaviridae (12058)	rhinovirus A78	8902	5924	83.5072	178.96	33.4	14.4
+147711	MZ667417.2	7134	Rhinovirus A (147711)	Enterovirus (12059)	Picornaviridae (12058)	Rhinovirus A	282	2434	34.1183	5.02803	33.3	7.33
+10515	MW686817.1	35909	Human mastadenovirus C (129951)	Mastadenovirus (10509)	Adenoviridae (10508)	Human adenovirus 2	35	1849	5.14913	0.13161	33.5	5.74
+129951	MH121071.1	35981	Human mastadenovirus C (129951)	Mastadenovirus (10509)	Adenoviridae (10508)	Human mastadenovirus C	19	1100	3.05717	0.0713154	33.4	5.63
+147712	LC495296.1	7259	Rhinovirus B (147712)	Enterovirus (12059)	Picornaviridae (12058)	Rhinovirus B	175	4290	59.099	3.42471	33.4	12
+68887	MN765306.1	3736	Torque teno virus (68887)	n/a	Anelloviridae (687329)	Torque teno virus	9920	3161	84.6092	381.309	33.5	15.4
+93678	MN769584.1	2883	TTV-like mini virus (93678)	Betatorquevirus (687332)	Anelloviridae (687329)	TTV-like mini virus	2372	2102	72.9102	117.919	33.4	41.7
+136966	KM593802.2	3840	SEN virus (136966)	n/a	Anelloviridae (687329)	SEN virus	99	1739	45.2865	3.71172	33.5	17.8
+687355	NC_014091.1	3818	Torque teno virus 16 (687355)	Alphatorquevirus (687331)	Anelloviridae (687329)	Torque teno virus 16	194	2461	64.4578	7.35228	33.4	36
+2055263	MZ286100.1	3547	Anelloviridae sp. (2055263)	n/a	Anelloviridae (687329)	Anelloviridae sp.	37	844	23.7948	1.01466	33.5	3.73
+687359	NC_038340.1	3234	Alphatorquevirus homin20 (3048422)	Alphatorquevirus (687331)	Anelloviridae (687329)	Torque teno virus 20	1707	1123	34.7248	72.1305	33.5	5.96
+10359	KX544836.1	234660	Cytomegalovirus humanbeta5 (3050295)	Cytomegalovirus (10358)	Orthoherpesviridae (3044472)	Human betaherpesvirus 5	25	1002	0.427001	0.0118597	33.5	6.32
+3050295	OR546130.1	235568	Cytomegalovirus humanbeta5 (3050295)	Cytomegalovirus (10358)	Orthoherpesviridae (3044472)	Cytomegalovirus humanbeta5	20	677	0.28739	0.00618505	33.5	0.35
+10376	MG298852.1	169664	Lymphocryptovirus humangamma4 (3050299)	Lymphocryptovirus (10375)	Orthoherpesviridae (3044472)	Human gammaherpesvirus 4	1259	936	0.551679	0.327294	33.7	12.1
+2809145	OK574446.1	3786	Alphatorquevirus sp. (2809145)	Alphatorquevirus (687331)	Anelloviridae (687329)	Alphatorquevirus sp.	26	675	17.8288	1.01611	33.6	43.9
+687367	OL694820.1	3643	Torque teno virus 28 (687367)	Alphatorquevirus (687331)	Anelloviridae (687329)	Torque teno virus 28	29	1211	33.2418	1.10623	33.5	30.9
+444018	AM712019.1	1105	Torque teno virus (68887)	n/a	Anelloviridae (687329)	TT virus sle2135	20	774	70.0452	2.40271	33.6	3.8
+444019	AM712020.1	1110	Torque teno virus (68887)	n/a	Anelloviridae (687329)	TT virus sle2104	9	650	58.5586	0.983784	33.5	0.111
+444017	AM712018.1	1097	Torque teno virus (68887)	n/a	Anelloviridae (687329)	TT virus sle2164	21	603	54.9681	2.19872	33.5	2.24

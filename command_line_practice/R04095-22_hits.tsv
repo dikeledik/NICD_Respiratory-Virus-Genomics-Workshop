@@ -1,0 +1,4 @@
+tax_id	accession	size	species	genus	family	brief	description	num_reads	cov_bases	coverage	mean_depth	mean_baseq	mean_mapq
+11250	MN108243.1	15287	Orthopneumovirus hominis (3049954)	Orthopneumovirus (1868215)	Pneumoviridae (11244)	Human orthopneumovirus	UNVERIFIED: Human orthopneumovirus strain 318590_R1.fastq.gz/USA, complete genome	28	3128	20.4618	0.242494	33.4	4.86
+12814	JN032117.1	15214	Orthopneumovirus bovis (3050248)	Orthopneumovirus (1868215)	Pneumoviridae (11244)	Respiratory syncytial virus	Respiratory syncytial virus strain B/WI/629-15/06-07, complete genome	7	857	5.63297	0.0658604	33.5	2.43
+208895	OR256314.1	14867	Orthopneumovirus hominis (3049954)	Orthopneumovirus (1868215)	Pneumoviridae (11244)	Human respiratory syncytial virus B	Human respiratory syncytial virus B isolate Mbale/RSVB/CST50828/14-11-2019, partial genome	12	1470	9.88767	0.108899	33.4	1.75
