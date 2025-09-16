@@ -1,0 +1,10 @@
+name: bioinfo-env
+channels:
+- bioconda
+- conda-forge
+- defaults
+dependencies:
+- fastqc=0.12.1
+- mafft=7.520
+- trimal=1.4.1
+- iqtree=2.2.6
