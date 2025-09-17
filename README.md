@@ -15,6 +15,7 @@ https://ormbunkar.se/aliview/
 IQtree
 
 Anaconda: conda install -c bioconda iqtree (Linux)
+
 Homebrew: brew install brewsci/bio/iqtree3 (Mac)
 
 Figtree
