@@ -3,3 +3,5 @@ Repository includes files used during the bioinformatics week of the Respiratory
 Fastq files for SARS-CoV-2 Analyis
 
 https://we.tl/t-iKcJDHauLf 
+
+czid.org
