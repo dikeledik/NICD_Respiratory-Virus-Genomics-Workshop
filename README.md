@@ -9,18 +9,24 @@ czid.org
 Phylogenetic analysis tool installation
 
 Aliview 
+
 https://ormbunkar.se/aliview/
 
 IQtree
+
 Anaconda: conda install -c bioconda iqtree (Linux)
 Homebrew: brew install brewsci/bio/iqtree3 (Mac)
 
 Figtree
+
 https://tree.bio.ed.ac.uk/software/figtree/
 
 Nextstrain
+
 https://docs.nextstrain.org/en/latest/learn/parts.html
+
 https://docs.nextstrain.org/en/latest/install.html
+
 [https://github.com/nextstrain/seasonal-flu.git](https://github.com/nextstrain/seasonal-flu/)
 
 
