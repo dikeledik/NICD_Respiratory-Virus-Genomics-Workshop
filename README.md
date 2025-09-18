@@ -30,7 +30,8 @@ https://docs.nextstrain.org/en/latest/install.html
 
 [https://github.com/nextstrain/seasonal-flu.git](https://github.com/nextstrain/seasonal-flu/)
 
-Two main files to edit, 
+**Two main files to edit, 
+**
 
 /Users/dikledikek/seasonal-flu/profiles/gisaid/builds.yaml
 
