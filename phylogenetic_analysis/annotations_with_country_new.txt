@@ -1,0 +1,1156 @@
+id	clade	short-clade	subclade	country	iso_3166_1_alpha2
+A_Croatia_10136RV_2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2		
+A_Thailand_8_2022_HA	3C.2a1b.2a.2a.3a.1	2a.3a.1	J		
+A_Darwin_6_2021_HA	3C.2a1b.2a.2a	2a	G.1		
+A/South_Africa/R07876/202023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/Kenya/KNH13125/Human/2025	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Mauritius/1186307/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.2	Mauritius	MU
+A/Mauritius/1186304/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Mauritius	MU
+A/Mauritius/1186264/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.1	Mauritius	MU
+A/Mauritius/1186095/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.2	Mauritius	MU
+A/Ghana/7555/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/7376/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/7129/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/7019/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/6229/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/6173/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1818/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1786/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Mauritius/I-176/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.2	Mauritius	MU
+A/Mauritius/I-183/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Mauritius	MU
+A/Mauritius/I-181/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.2	Mauritius	MU
+A/Mauritius/I-186/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Mauritius	MU
+A/Mauritius/I-185/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.2	Mauritius	MU
+A/Ghana/FS-24-7406/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7405/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7394/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7328/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7259/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7198/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7129/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7113/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7456/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7450/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7444/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7443/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7440/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7433/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7426/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7423/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7723/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7698/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7669/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7632/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7628/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7555/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7462/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7458/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/South_Africa/R07790/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/Madagascar/02560/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/02472/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/02466/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/01969/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/01225/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/00863/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/00272/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/00215/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/00143/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/02937/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/02845/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/02789/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/02746/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/02491/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/01487/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/01281/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Ghana/FS-24-4229/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-4228a/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-4046/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-4035/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-4020/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-4009/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3939/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3944/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-4001/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3984/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3981/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3889/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3952/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3961/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/South_Africa/NHLS-SU-CERI-K062118/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/South_Africa/PATH-CERI-K062956/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/Zambia/0218/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0326/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0050/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0220/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0448/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0014/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0282/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0265/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0440/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0438/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0144/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0066/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0460/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0433/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0468/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0073/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0113/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0210/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0443/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0137/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0146/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0408/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0362/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0175/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0279/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0458/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0119/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0134/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0407/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0354/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/South_Africa/R09020/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07941/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07938/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07902/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07890/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07841/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07734/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07324/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06959/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06721/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06715/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06588/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05840/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05707/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05517/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05217/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05025/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04777/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R04354/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04352/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03946/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R03793/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/Ghana/ARI-24-0593/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-2181a/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2165/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2034/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Zambia/11-NIC-195/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Kenya/103/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/102/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+K056300	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/SouthAfrica/PET28178/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET28234/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET28188/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET28223/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/K056327/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056318/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/K056317/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056311/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056308/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056307/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056302/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056300/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05672/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05671/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05656/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05655/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05650/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05648/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05643/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05635/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05630/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05627/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05624/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05614/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05602/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05568/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05566/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04881/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04855/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04835/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04827/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04821/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04819/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04818/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04814/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04809/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04801/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R04790/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04787/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04782/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04778/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04775/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04742/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04732/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04731/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R04729/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04728/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04715/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04676/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04630/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04574/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04563/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04562/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R04556/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04552/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04533/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R04528/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04467/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04458/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04452/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04449/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04387/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R04358/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04355/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04247/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04246/2023	3C.2a1b.2a.2a.3	2a.3	G.1.3	South Africa	ZA
+A/South_Africa/R04080/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04074/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R03963/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03954/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R03952/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03848/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R03828/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R03827/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/Zambia/11-NIC-218/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Ghana/6179/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Madagascar/81992/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Madagascar	MG
+A/Madagascar/03919/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/03917/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/03916/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/03914/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Kenya/KNH12805/Human/2025	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Madagascar/03198/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/03189/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/03416/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Madagascar	MG
+A/Madagascar/03415/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Madagascar	MG
+A/Zambia/0441/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0140/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.2	Zambia	ZM
+A/Zambia/0110/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Zambia	ZM
+A/Zambia/0622/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0510/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0447/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0361/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0368/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Zambia	ZM
+A/Zambia/0161/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.2	Zambia	ZM
+A/Zambia/0424/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0555/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0543/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0351/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Zambia	ZM
+A/Zambia/0403/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0114/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.2	Zambia	ZM
+A/Zambia/0398/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/0078/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Madagascar/03710/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Madagascar	MG
+A/Ghana/1122/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1498/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1417/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/4971/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1117/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.4	Ghana	GH
+A/Ghana/4691/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/4893/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1229/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/1500/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1048/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1824/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/2545/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/3195/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/818/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/3104/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/3409/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/South_Africa/R04209/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/South_Africa/R00713/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/Sainte_Marie/03340/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1		
+A/Ghana/1725/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-2023/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2022/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Mauritius/P42248_I-79/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Mauritius	MU
+A/Mauritius/P42248/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Mauritius	MU
+A/Mauritius/P49825/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Mauritius	MU
+A/Livingstone/09-NIC-396/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J		
+A/Livingstone/09-NIC-395/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J		
+A/Livingstone/09-NIC-372/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J		
+A/South_Africa/R06716/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06690/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06687/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06920/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06666/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06918/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06653/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06909/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06652/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06907/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06651/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06905/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06649/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06900/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06648/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06896/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06647/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06895/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06894/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06642/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06890/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06628/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06884/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06627/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06857/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06855/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06621/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06851/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06620/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06844/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06839/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06608/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06835/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06598/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06834/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06594/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06832/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06591/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06831/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06760/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05564/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06759/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R05560/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06754/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05559/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06748/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05558/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06747/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05557/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R05556/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05554/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05547/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05546/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05544/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05541/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05522/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056874/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056873/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056872/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056869/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056867/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056866/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056865/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/Lusaka/04-NIC-464/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Lusaka/04-NIC-450/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/SouthAfrica/PET27763/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET27107/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R06587/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06586/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06585/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06584/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06582/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06579/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06349/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06564/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06347/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06551/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06346/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06535/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06345/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06534/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06342/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06533/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06340/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06532/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06332/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06531/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06327/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06523/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06325/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06513/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06323/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06506/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R06319/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06499/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06304/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06484/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06300/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06483/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06291/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06481/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06281/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06480/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06279/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06478/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06111/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06278/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06477/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06110/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06277/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06476/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06109/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06276/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06474/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06108/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06275/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06467/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06107/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06270/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06466/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06106/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06269/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06465/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06105/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06267/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R06104/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06464/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06264/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06103/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06259/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06461/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06097/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06256/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06371/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06060/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06252/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06370/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R06059/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06250/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06369/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06055/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06248/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06053/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06360/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06046/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06241/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06359/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06045/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06353/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06036/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06229/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06352/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05920/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06035/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06228/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06350/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R05919/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06034/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06206/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05916/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06033/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06195/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05915/2023	3C.2a1b.2a.2a	2a	G.1	South Africa	ZA
+A/South_Africa/R06028/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R06185/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05906/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06027/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06174/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05900/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06026/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06173/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05890/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06024/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06172/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05887/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06022/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06168/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05886/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06020/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06165/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05884/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06016/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06157/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05883/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06014/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06155/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05877/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06137/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06009/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05876/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06122/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06008/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05854/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06121/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06007/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05850/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06118/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06003/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05848/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06113/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R06001/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05847/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05825/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05999/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05819/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05991/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05808/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05983/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05794/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05786/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05978/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05785/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R05973/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05972/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05779/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05971/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05771/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05970/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05760/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05757/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05952/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05755/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05950/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05736/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05949/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05735/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05948/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05722/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05945/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05704/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R05943/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05515/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05933/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05510/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05509/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05507/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05494/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05493/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05485/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05484/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05481/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05479/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R05474/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05467/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05466/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05309/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05223/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05043/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/Lusaka/04-NIC-402/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Kenya/KNH12884/Human/2025	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Ghana/FS-24-7922/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7888/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-7838/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1973/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/South_Africa/R08893/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.2	South Africa	ZA
+A/South_Africa/R08791/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/South_Africa/R08619/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/South_Africa/R05672/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/South_Africa/R04903/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/Zambia/0184/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Zambia	ZM
+A/Zambia/0164/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Zambia	ZM
+A/Zambia/0141/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Zambia	ZM
+A/Zambia/0225/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Zambia	ZM
+A/Zambia/0131/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Zambia	ZM
+A/Zambia/0238/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Zambia	ZM
+A/Ghana/ARI-24-1850/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1819/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1036/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1812/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/1740/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/South_Africa/R01967/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.1	South Africa	ZA
+A/Kenya/117/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/118/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/123/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/122/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/119/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/120/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/130/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/128/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/131/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/132/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Zambia/11-NIC-177/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/11-NIC-072/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/10-NIC-049/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Ghana/1922/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Mauritius/P50059/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Mauritius	MU
+A/Mauritius/P50061/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Mauritius	MU
+A/Ghana/7400/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/8111/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Mauritius/P52643/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Mauritius	MU
+A/Ghana/7529/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/2186/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/7625/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Mauritius/P53142/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Mauritius	MU
+A/Zambia/09-NIC-508/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/09-NIC-494/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Kenya/GIHSN-HCL023180172301/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023179847501/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023179820201/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023181176301/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023181172201/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023181164601/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023181163201/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023181156801/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023181154201/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023181141801/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023181139501/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023181135301/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023181131001/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023181128501/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023181126301/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023181117601/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023181113301/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023181104001/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023181091101/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180202101/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180198201/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180193901/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180187901/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180183901/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180177301/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180157101/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180152101/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180147401/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180144601/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023180116701/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023180109001/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023179854501/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023179844101/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023179834501/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023179817301/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023179811301/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023179805201/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023179785301/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023178953901/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023178946201/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023178938101/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023178921201/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023178917201/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/GIHSN-HCL023178890901/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023178875201/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/Kenya/GIHSN-HCL023178857201/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	Kenya	KE
+A/South_Africa/R07564/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07498/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07770/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05392/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05028/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04996/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06084/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R07874/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04548/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05815/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R02468/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04952/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06937/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07483/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05749/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05019/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05818/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07559/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04988/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06066/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07772/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07768/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06577/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05022/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R04406/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07062/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07849/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05029/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R07227/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05390/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R07262/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05008/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04940/2023	3C.2a1b.2a.2a.3	2a.3	G.1.3	South Africa	ZA
+A/South_Africa/R06315/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04995/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07771/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05011/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/Ghana/0998/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/South_Africa/R03807/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R04092/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R02589/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03480/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/K056882/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056881/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056879/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06018/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06030/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05024/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06102/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06005/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05422/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05423/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05424/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05462/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05384/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05371/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05367/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05357/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05353/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05351/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05350/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05415/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05398/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05395/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05393/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05329/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05324/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05322/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05321/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05313/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05310/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056298/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/Ghana/FS-24-5982/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-5726/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-5351/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1818/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1568/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1559/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1504/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1498/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1488/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1031/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1081/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1293/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/5160/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1406/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/5733/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1488/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/5726/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/South_Africa/R06425/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/South_Africa/R06424/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/South_Africa/R06361/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/Ambositra/01616/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J		
+A/Zambia/07-NIC-421/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Zambia/07-NIC-418/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/South_Africa/NHLS-UCT-GS-0099/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/Ghana/1032/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1671/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/1310/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Kenya/133/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/126/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/121/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/125/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/129/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/124/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/127/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Ghana/FS-24-1740/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/7934/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Kenya/6014/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MNB-1231/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Zambia/06-NIC-587/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/South_Africa/R06050/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07723/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07568/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07555/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07524/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07462/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07368/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07365/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07362/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07353/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07351/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07350/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07349/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07344/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07261/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07249/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07241/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07238/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07229/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07203/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07192/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07190/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07188/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07161/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07122/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07114/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07079/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07078/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07077/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07074/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07073/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R07043/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07042/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07013/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07012/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07003/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R07002/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06997/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06994/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06985/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06974/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06968/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06955/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06943/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06933/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06926/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R00721/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/Lusaka/01-NIC-269/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/South_Africa/R03808/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03674/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R03596/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	South Africa	ZA
+A/South_Africa/R03550/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R03514/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R06101/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06093/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05015/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04907/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/Mauritius/P08894/2023	3C.2a1b.2a.2a.3b	2a.3b	G.1.3.2	Mauritius	MU
+A/Ghana/7364/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/7698/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6995/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6655/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6654/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6647/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6637/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6386/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6374/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6371/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6279/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6229/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-6173/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Zambia/07-NIC-443/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Ghana/ARI-24-1097/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1081/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1048/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Madagascar/01250/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Kenya/139/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/136/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/137/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/138/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/140/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/149/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/134/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Madagascar/25/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/495/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/648/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/1249/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/141/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/1225/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/1347/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1	Madagascar	MG
+A/Madagascar/105/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/205/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/182/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/1282/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/747/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/51/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/50000/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Madagascar/216/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/South_Africa/PATH-CERI-K062714/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/SouthAfrica/R00823/24	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/Ghana/2980/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/0864/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Zambia/0390/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Ghana/3227/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/3278/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/2375/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/3084/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Zambia/0389/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1.1	Zambia	ZM
+A/Ghana/2596/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/3370/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/3106/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-2624/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2594/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2581/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2578/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2577/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/ARI-24-0818/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-3173/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-3147/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-3126/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-3107/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/South_Africa/PATH-CERI-K062589/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2.2	South Africa	ZA
+A/KENYA/NAK-12827/Human/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/KENYA/MSA-09058/Human/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/KENYA/MSA-08911/Human/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/KENYA/MSA-08901/Human/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Ghana/FS-24-2437/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2393/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2392/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2390/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Toamasina/03221/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/KENYA/NIRL24-603/Human/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Ghana/1957/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/7651/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Antsirabe/02539/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antsirabe/02542/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Manandona/02584/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02641/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02654/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02680/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toamasina/03060/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02699/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02702/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antsirabe/02735/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02748/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02757/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toamasina/02808/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toamasina/02992/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02860/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toliary/02885/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02915/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/84305/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toamasina/02991/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antsohihy/02971/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toamasina/02989/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antsohihy/02969/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Mahajanga/03016/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toliary/03036/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Sainte_Marie/03342/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02981/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toamasina/03143/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toliary/03152/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toamasina/03219/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Madagascar	MG
+A/Antsohihy/03201/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Manandona/03215/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/03253/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toamasina/03297/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/03308/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/03371/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Manandona/03462/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toliary/03345/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/02681/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Toamasina/02944/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Kenya/AFI-MNB-1100/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MNB-1095/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MGT-2007/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MGT-2004/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MGT-2001/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MGT-2000/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MGT-1996/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MGT-1971/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MGT-1968/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MGT-1967/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-MGT-1966/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-LAM-1546/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-LAM-1532/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-LAM-1332/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-LAM-1260/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-LAM-1255/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-LAM-1224/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-LAM-1223/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-LAM-1210/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KOM-1960/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KOM-1940/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KOM-1937/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KOM-1935/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KOM-1929/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KOM-1923/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KOM-1910/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KOM-1909/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1822/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1820/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1813/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1812/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1811/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1810/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1809/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1804/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1800/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1799/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1798/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1797/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1787/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1785/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-KDH-1781/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1262/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1259/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1252/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1246/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1237/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1235/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1162/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1160/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1111/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1107/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1058/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1056/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1054/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-ISB-1051/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-EBS-096/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-EBS-078/2023	3C.2a1b.2a.2a	2a	G.1	Kenya	KE
+A/Kenya/AFI-EBS-075/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-EBS-058/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/AFI-EBS-029/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF251740/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF211801/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF221829/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF231751/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF231748/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF241658/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF221782/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF221781/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF183102/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF211909/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF241777/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF231843/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/KLF184427/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/105/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/107/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/104/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/101/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/108/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Kenya/106/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Livingstone/05-NIC-320/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Lusaka/02-NIC-230/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/South_Africa/R03796/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R00407/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03608/23	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R03531/23	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R03513/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03690/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03715/23	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05520/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/SouthAfrica/PET28935/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R03512/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03818/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03952/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04061/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04953/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05001/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05834/23	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R05871/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06064/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06068/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06096/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/Ghana/1817/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/7375/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/6365/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/1850/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/6834/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/6828/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/7113/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/South_Africa/8483/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/South_Africa/8621/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/South_Africa/8051/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/Ghana/FS-24-3902/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3974/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3895/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ambositra/01969/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antsirabe/01583/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Fianarantsoa/01771/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Itasy/01844/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Madagascar	MG
+A/Ghana/FS-24-3891/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3849/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-3687/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1184/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-1165/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-0713/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/FS-24-2723/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/ARI-24-0837/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Ghana/ARI-24-0832/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Ghana	GH
+A/Kenya/107/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Ghana/FS-24-2443/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2440/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2439/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2389/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2385/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2384/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2383/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2382/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2375/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2372/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2371/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2545/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-2279/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.4	Ghana	GH
+A/Ghana/FS-24-2271/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/ARI-24-0616/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Antananarivo/03320/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/Antananarivo/50000/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
+A/KENYA/NIRL24-417/Human/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Ghana/FS-24-1982/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/FS-24-1905/2024	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Kenya/5889/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Kenya	KE
+A/Mauritius/P52862/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.1	Mauritius	MU
+A/Mauritius/P79129/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Mauritius	MU
+A/Ghana/7707/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/8126/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/7479/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/2024/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/8192/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Zambia/4443/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Ghana/2137/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Ghana/8529/2023	3C.2a1b.2a.2a.3a	2a.3a	G.1.3.1	Ghana	GH
+A/Zambia/1370/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1377/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1478/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/2207/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/301332/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/5299/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/2223/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1378/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1325/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/4450/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/9417/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/4489/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/6638/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1263/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/6587/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/9370/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1329/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/4471/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/4464/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1326/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1324/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1333/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/4461/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1337/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1321/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1358/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1344/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1295/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/9501/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1365/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1334/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1393/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1352/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1308/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/31325/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1237/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1341/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/9510/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/31329/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1322/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/9514/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1339/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1301/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/9494/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1404/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1406/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1332/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1327/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Zambia/1403/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/Lusaka/01-NIC-334/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Zambia	ZM
+A/South_Africa/K056863/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056884/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/K056883/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/SouthAfrica/PET28646/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/SouthAfrica/PET28042/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET28301/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET28070/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET28072/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET27751/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET27749/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET28031/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET27608/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET27422/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET28825/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET28564/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/SouthAfrica/PET28877/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/SouthAfrica/PET28761/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06101/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06085/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06126/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06131/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R06839/23	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R04905/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05001/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05081/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05168/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05194/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R05230/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03722/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/South_Africa/R03715/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R03693/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R03635/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R03620/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R03608/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R03513/2023	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	South Africa	ZA
+A/SouthAfrica/K056331/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/PET32849/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	South Africa	ZA
+A/Kenya/AFI-MGT-2236/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/AFI-EBS-411/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/Kenya/AFI-EBS-412/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Kenya	KE
+A/South_Africa/R03415/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R03153/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R03006/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/South_Africa/R02922/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R02921/2023	3C.2a1b.2a.2b	2b	G.2	South Africa	ZA
+A/South_Africa/R02866/2023	3C.2a1b.2a.2a.1b	2a.1b	G.1.1.2	South Africa	ZA
+A/Itasy/01846/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J.2	Madagascar	MG
+A/Ambositra/02034/2024	3C.2a1b.2a.2a.3a.1	2a.3a.1	J	Madagascar	MG
