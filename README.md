@@ -18,6 +18,8 @@ Anaconda: conda install -c bioconda iqtree (Linux)
 
 Homebrew: brew install brewsci/bio/iqtree3 (Mac)
 
+command: iqtree -s your_sequence_file.fasta -m MF -alrt 1000
+
 Figtree
 
 https://tree.bio.ed.ac.uk/software/figtree/
