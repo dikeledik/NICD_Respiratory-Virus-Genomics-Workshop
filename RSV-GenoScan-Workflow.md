@@ -1,4 +1,4 @@
-# RSV-GenosCan Analysis Workflow
+# RSV-GenoScan Analysis Workflow
 
 ## 1. Introduction
 
