@@ -120,7 +120,7 @@ dependencies:
 
 - Open the `rsv_genoscan_env.yaml` using your favourite text editor or on the terminal using `nano` or `vim` and copy the the yaml content above to rsv_genoscan_env.yaml
 
-#### 3.2.1 Create and activate `rsv_genoscan_env` conda environment
+#### 3.2.2 Create and activate `rsv_genoscan_env` conda environment
 
 - On the terminal, with conda activated, create the environment to run RSV-GenoScan
 
