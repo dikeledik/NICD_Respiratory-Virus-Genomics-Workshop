@@ -1,30 +1,33 @@
-Repository includes files used during the bioinformatics week of the Respiratory Virus Genomics Workshop (08 -19 Sep) at the National Institute for Communicable Diseases (CRDM).
+## Repository includes files used during the bioinformatics week of the Respiratory Virus Genomics Workshop (08 -19 Sep) at the National Institute for Communicable Diseases (CRDM).
 
-Fastq files for SARS-CoV-2 Analyis
+**Fastq files for SARS-CoV-2 Analyis
 
 https://we.tl/t-iKcJDHauLf 
 
-czid.org
+# czid.org
 
-Phylogenetic analysis tool installation
+**Phylogenetic analysis tool installation
 
-Aliview 
+# Aliview 
 
 https://ormbunkar.se/aliview/
 
-IQtree
+# IQtree
 
+```
 Anaconda: conda install -c bioconda iqtree (Linux)
 
 Homebrew: brew install brewsci/bio/iqtree3 (Mac)
 
 command: iqtree -s your_sequence_file.fasta -m MF -alrt 1000
 
-Figtree
+```
+
+# Figtree
 
 https://tree.bio.ed.ac.uk/software/figtree/
 
-Nextstrain
+# Nextstrain
 
 https://docs.nextstrain.org/en/latest/learn/parts.html
 
@@ -32,8 +35,7 @@ https://docs.nextstrain.org/en/latest/install.html
 
 [https://github.com/nextstrain/seasonal-flu.git](https://github.com/nextstrain/seasonal-flu/)
 
-**Two main files to edit, 
-**
+**Two main files to edit
 
 /Users/dikledikek/seasonal-flu/profiles/gisaid/builds.yaml (subsampling)
 
