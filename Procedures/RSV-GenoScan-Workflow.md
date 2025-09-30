@@ -33,31 +33,31 @@ git clone https://github.com/AlexandreD-bio/RSV-GenoScan.git
 
 #### 3.1.1 To install Miniconda on Linux
 
-    ```bash
-    cd ~
+```bash
+cd ~
 
-    wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 
-    bash Miniconda3-latest-Linux-x86_64.sh
-    ```
+bash Miniconda3-latest-Linux-x86_64.sh
+```
 
 #### 3.1.2 To install Miniconda on macOS
 
-    ```bash
-    cd ~
+```bash
+cd ~
 
-    curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
+curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 
-    bash Miniconda3-latest-MacOSX-arm64.sh
+bash Miniconda3-latest-MacOSX-arm64.sh
 
-    ```
+```
 - Follow the installation prompts and enter yes to all yes/no propmts.
 
 #### 3.1.3 Verify installation
 
-    ```bash
-    conda --version
-    ```
+```bash
+conda --version
+```
 
 - **Note:** Always make sure you select the correct version for your OS.
 - **Tip:** Always install Conda in your home directory to avoid permission issues.
@@ -114,9 +114,9 @@ dependencies:
 
 #### 3.2.1 Create the yaml file
 
-    ```bash
-    touch rsv_genoscan_env.yaml
-    ```
+```bash
+touch rsv_genoscan_env.yaml
+```
 
 - Open the `rsv_genoscan_env.yaml` using your favourite text editor or on the terminal using `nano` or `vim` and copy the the yaml content above to rsv_genoscan_env.yaml
 
@@ -124,13 +124,13 @@ dependencies:
 
 - On the terminal, with conda activated, create the environment to run RSV-GenoScan
 
-    ```bash
-    conda activate
+```bash
+conda activate
 
-    conda env create -f genoscan_conda_env.yaml
+conda env create -f genoscan_conda_env.yaml
 
-    conda activate rsv_genoscan_env
-    ```
+conda activate rsv_genoscan_env
+```
 
 ## 4. Running RSV-GenoScan
 
@@ -138,16 +138,16 @@ dependencies:
 
 - On the terminal, create a working directory `RSV_Analysis` in e.g. `Documents` folder 
 
-    ```bash
-    cd ~/Documents
-    mkdir RSV_Analysis
-    cd RSV_Analysis
-    ```
+```bash
+cd ~/Documents
+mkdir RSV_Analysis
+cd RSV_Analysis
+```
 - Copy the RSV-GenoScan repository from `~/Downloads` to your working directory `~/Documents/RSV_Analysis`.
 
-    ```bash
-    cp -r ~/Downloads/RSV-GenoScan .
-    ```
+```bash
+cp -r ~/Downloads/RSV-GenoScan .
+```
 - Copy your `fastq` files into the to `~/Documents/RSV_Analysis`.
 
 ### 4.2 Launch RSV-GenoScan
